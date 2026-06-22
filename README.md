@@ -1,6 +1,6 @@
 # Hi, I'm Luna 👋
 
-**Graphics Programmer
+**Graphics Programmer**
 
 I specialize in modern rendering pipelines, low-level GPU optimization, and building custom engine tech from the ground up. I am passionate about bridging the gap between high-fidelity visual effects and hardware efficiency.
 
